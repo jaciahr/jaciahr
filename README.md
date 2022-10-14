@@ -1,6 +1,6 @@
 ### Welcome to my page! 👋
 
-My name is Jaciah Rashid, and I am in my third year at the University of Florida. I am currently building my own compiler in Programming Language Concepts (Java) and learning about software development and architecture types in Introduction to Software Engineering. Please reach out to me at jaciah.rashid@ufl.edu!
+My name is Jaciah Rashid, and I am a 4th year Biochemistry and Computer Science double major at the University of Florida. I am currently taking Operating Systems and Penetration Testing, and I am building a website using Ruby on Rails and React. Please reach out to me at jaciah.rashid@ufl.edu!
 <!--
 **jaciahr/jaciahr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
