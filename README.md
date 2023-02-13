@@ -1,6 +1,6 @@
 ### Welcome to my page! 👋
 
-My name is Jaciah Rashid, and I am a 4th year Biochemistry and Computer Science double major at the University of Florida. I am currently taking Operating Systems and Penetration Testing, and I am building a website using Ruby on Rails and React. Please reach out to me at jaciah.rashid@ufl.edu!
+My name is Jaciah Rashid, and I am a 4th year Biochemistry and Computer Science double major at the University of Florida. I am currently working in Unity to make reading an interactive experience via virtual reality.. Please reach out to me at jaciah.rashid@ufl.edu!
 <!--
 **jaciahr/jaciahr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
